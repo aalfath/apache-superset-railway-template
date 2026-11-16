@@ -1,5 +1,9 @@
 # Changelog
 
+## Unreleased (2026-11-16)
+
+- README: add the Deploy on Railway button for the published template `apache-superset-1`. No change to the image or the app.
+
 ## 6.1.0 (2026-11-16)
 
 - First release of the template: Apache Superset 6.1.0 (`apache/superset:6.1.0@sha256:16b50bbef6648912a79e3293d418fefa743ce555d36c5af6b85d859119ed7f88`) with Railway PostgreSQL for metadata and Railway Redis for caching.

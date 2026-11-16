@@ -1,3 +1,5 @@
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/apache-superset-1?utm_medium=integration&utm_source=button&utm_campaign=apache-superset)
+
 # Apache Superset on Railway
 
 A one-click Railway template for [Apache Superset](https://superset.apache.org/), the open-source data exploration and dashboard platform.
